@@ -1,3 +1,2 @@
 # hello-world
-Test repository
-This is a test file
+Test repository.
